@@ -1,0 +1,2 @@
+class MonthYear < ApplicationRecord
+end
